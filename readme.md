@@ -1,3 +1,5 @@
+![ai-agents](.github/logo.png)
+
 # create-ai-agents
 
 [![DOWNLOADS](https://img.shields.io/npm/dt/create-ai-agents?label=DOWNLOADS%20%20❯&colorA=000000&colorB=000000&style=flat)](https://www.npmjs.com/package/create-ai-agents) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=000000&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=000000&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=000000&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
