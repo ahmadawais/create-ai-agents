@@ -1,4 +1,4 @@
-![ai-agents](https://github.com/ahmadawais/create-ai-agents/raw/main/.github/logo.png)
+![ai-agents](https://raw.githubusercontent.com/ahmadawais/create-ai-agents/main/.github/logo.png)
 
 # create-ai-agents
 
