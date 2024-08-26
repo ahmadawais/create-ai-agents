@@ -52,12 +52,12 @@ pnpm create ai-agents
 
 4. Open the `.env` file and add your Langbase Pipe API key:
    ```
-   LANGBASE_PIPE_API_KEY=your_api_key_here
+   LANGBASE_MY_PIPE_API_KEY=your_api_key_here
    ```
 
 5. Start your AI agent:
    ```sh
-   pnpm start
+   pnpm dev
    ```
 
 ### Project Structure
