@@ -49,9 +49,17 @@ All notable changes in this project's [released versions](../../releases) are do
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
 
-> 📦 First commit [`5b8993f`](https://github.com/ahmadawais/create-ai-agents/commit/5b8993f88ec98b6c6ffd3354ec1cf3cf7e48e418)
+> 📦 First commit [`5b8993f`](https://github.com/ahmadawais/create-ai-agent/commit/5b8993f88ec98b6c6ffd3354ec1cf3cf7e48e418)
 
-> 📦 Init [`8515f11`](https://github.com/ahmadawais/create-ai-agents/commit/8515f11427d0a32f3234bcd68b35b4d016172f91)
+> 📦 Init [`8515f11`](https://github.com/ahmadawais/create-ai-agent/commit/8515f11427d0a32f3234bcd68b35b4d016172f91)
+
+![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
+
+> 👌 Name [`1db6160`](https://github.com/ahmadawais/create-ai-agent/commit/1db6160f1db276deb63536fa62b12e6c52222d41)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`b592ac5`](https://github.com/ahmadawais/create-ai-agent/commit/b592ac51b0ace372d100f85a988f1cb18625e514)
 
 <br>
 
