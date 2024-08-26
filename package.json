@@ -1,0 +1,28 @@
+{
+	"name": "create-ai-agent",
+	"version": "0.0.1",
+	"description": "Create AI agents",
+	"license": "MIT",
+	"repository": "ahmadawais/create-ai-agent",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"create-ai-agent",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"devDependencies": {
+		"prettier": "^2.0.2"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"format": "prettier --write \"./**/*.{js,json}\""
+	}
+}
