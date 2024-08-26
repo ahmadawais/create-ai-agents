@@ -45,6 +45,21 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [0.2.0](https://github.com/ahmadawais/create-ai-agent/compare/0.1.0...0.2.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
+
+> 👌 prettier [`399a5f3`](https://github.com/ahmadawais/create-ai-agent/commit/399a5f39efe5df92b41e4d6416d82e489f0e6e47)
+
+> 👌 Type modules [`29ac3f0`](https://github.com/ahmadawais/create-ai-agent/commit/29ac3f03714c810604144134c6bf1138ca522e58)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: 0.1.0
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
@@ -60,6 +75,8 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
 > 📖 Changelog [`b592ac5`](https://github.com/ahmadawais/create-ai-agent/commit/b592ac51b0ace372d100f85a988f1cb18625e514)
+
+> 📖 Changelog [`9f0da99`](https://github.com/ahmadawais/create-ai-agent/commit/9f0da9981427752b859c73fabce6d9d207b86724)
 
 <br>
 
