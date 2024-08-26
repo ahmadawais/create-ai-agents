@@ -40,7 +40,7 @@ pnpm create ai-agents
 
 1. Run the create command:
    ```sh
-   pnpm create ai-agent
+   pnpm create ai-agents
    ```
 
 2. Follow the interactive prompts to set up your project:
