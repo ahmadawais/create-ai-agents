@@ -3,6 +3,10 @@
 	"version": "0.0.1",
 	"description": "Create AI agents",
 	"license": "MIT",
+	"type": "module",
+	"bin": {
+		"create-ai-agent": "./create-ai-agent.js"
+	},
 	"repository": "ahmadawais/create-ai-agent",
 	"author": {
 		"name": "Ahmad Awais",
@@ -24,5 +28,12 @@
 	"scripts": {
 		"test": "node test.js",
 		"format": "prettier --write \"./**/*.{js,json}\""
+	},
+	"dependencies": {
+		"chalk": "^5.3.0",
+		"commander": "^12.1.0",
+		"execa": "^9.3.1",
+		"inquirer": "^10.1.8",
+		"ora": "^8.1.0"
 	}
 }
