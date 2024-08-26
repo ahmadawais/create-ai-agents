@@ -28,7 +28,7 @@ import { Pipe } from 'langbase';
 
 async function main() {
   const pipe = new Pipe({
-    apiKey: process.env.LANGBASE_PIPE_API_KEY,
+    apiKey: process.env.LANGBASE_MY_PIPE_API_KEY,
   });
 
   const result = await pipe.generateText({
@@ -44,15 +44,19 @@ main().catch(console.error);
 		await fs.writeFile('index.js', mainFileContent.trim());
 
 		// Create .env file
-		await fs.writeFile('.env', 'LANGBASE_PIPE_API_KEY=your_api_key_here');
+		await fs.writeFile(
+			'.env',
+			'LANGBASE_MY_PIPE_API_KEY=your_api_key_here'
+		);
 
 		// Update package.json
 		const packageJson = JSON.parse(
 			await fs.readFile('package.json', 'utf-8')
 		);
+		packageJson.type = 'module'; // Add type: module
 		packageJson.scripts = {
 			...packageJson.scripts,
-			start: 'node index.js'
+			dev: 'node index.js' // Change start to dev
 		};
 		await fs.writeFile(
 			'package.json',
@@ -67,7 +71,7 @@ main().catch(console.error);
 		console.log(
 			chalk.cyan('2. Add your Langbase Pipe API key to the .env file')
 		);
-		console.log(chalk.cyan('3. pnpm start'));
+		console.log(chalk.cyan('3. pnpm dev')); // Update this line to use 'dev' instead of 'start'
 	} catch (error) {
 		spinner.fail(chalk.red('Failed to create AI agent'));
 		console.error(error);
