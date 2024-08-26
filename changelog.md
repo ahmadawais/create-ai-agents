@@ -45,6 +45,19 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [0.2.1](https://github.com/ahmadawais/create-ai-agent/compare/0.2.0...0.2.1)
+
+![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
+
+> 👌 lingo [`c6e9c65`](https://github.com/ahmadawais/create-ai-agent/commit/c6e9c657eb58faa0d45d47e98b90fbcbdc5a4708)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [0.2.0](https://github.com/ahmadawais/create-ai-agent/compare/0.1.0...0.2.0)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
@@ -52,6 +65,10 @@ All notable changes in this project's [released versions](../../releases) are do
 > 👌 prettier [`399a5f3`](https://github.com/ahmadawais/create-ai-agent/commit/399a5f39efe5df92b41e4d6416d82e489f0e6e47)
 
 > 👌 Type modules [`29ac3f0`](https://github.com/ahmadawais/create-ai-agent/commit/29ac3f03714c810604144134c6bf1138ca522e58)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`d042866`](https://github.com/ahmadawais/create-ai-agent/commit/d04286601e1d9b653daffd64a11ae5c5d7a2a969)
 
 <br>
 
