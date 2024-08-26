@@ -1,9 +1,9 @@
-# create-ai-agent
+# create-ai-agents
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/create-ai-agent?label=DOWNLOADS%20%20❯&colorA=000000&colorB=000000&style=flat)](https://www.npmjs.com/package/create-ai-agent) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=000000&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=000000&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=000000&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
+[![DOWNLOADS](https://img.shields.io/npm/dt/create-ai-agents?label=DOWNLOADS%20%20❯&colorA=000000&colorB=000000&style=flat)](https://www.npmjs.com/package/create-ai-agents) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=000000&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=000000&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=000000&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=000000&colorB=000000&style=flat)](https://twitter.com/mrahmadawais/)
 
-> Create AI agents. `create-ai-agent` is a command-line interface (CLI) tool that helps you quickly set up new AI agent projects using the ⌘ Langbase SDK. It streamlines the process of creating a new project, installing dependencies, and setting up a basic example.
+> Create AI agents. `create-ai-agents` is a command-line interface (CLI) tool that helps you quickly set up new AI agent projects using the ⌘ Langbase SDK. It streamlines the process of creating a new project, installing dependencies, and setting up a basic example.
 
 ## Features
 
@@ -25,9 +25,9 @@
 You don't need to install anything globally. Just run one of these commands to create a new AI agent project:
 
 ```sh
-npm create ai-agent
+npm create ai-agents
 # or
-pnpm create ai-agent
+pnpm create ai-agents
 ```
 
 <br>
@@ -118,7 +118,7 @@ After creation, your project will have the following structure:
 
 > This repository is part of the [Langbase.com][lb] course.
 
-[lb]: https://Langbase.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-ai-agent
-[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-ai-agent
+[lb]: https://Langbase.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-ai-agents
+[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=ahmadawais/create-ai-agents
 
 [![Awais on Twitter](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)

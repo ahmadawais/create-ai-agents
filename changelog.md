@@ -49,9 +49,9 @@ All notable changes in this project's [released versions](../../releases) are do
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
 
-> 📦 First commit [`5b8993f`](https://github.com/ahmadawais/create-ai-agent/commit/5b8993f88ec98b6c6ffd3354ec1cf3cf7e48e418)
+> 📦 First commit [`5b8993f`](https://github.com/ahmadawais/create-ai-agents/commit/5b8993f88ec98b6c6ffd3354ec1cf3cf7e48e418)
 
-> 📦 Init [`8515f11`](https://github.com/ahmadawais/create-ai-agent/commit/8515f11427d0a32f3234bcd68b35b4d016172f91)
+> 📦 Init [`8515f11`](https://github.com/ahmadawais/create-ai-agents/commit/8515f11427d0a32f3234bcd68b35b4d016172f91)
 
 <br>
 
