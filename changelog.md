@@ -45,11 +45,28 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [0.3.2](https://github.com/ahmadawais/create-ai-agent/compare/0.3.1...0.3.2)
+
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 logo [`be38d23`](https://github.com/ahmadawais/create-ai-agent/commit/be38d23853df7b8bd4cbbae081a741d52a3fb1ab)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [0.3.1](https://github.com/ahmadawais/create-ai-agent/compare/0.3.0...0.3.1)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
 > 🐛 logo [`61c0262`](https://github.com/ahmadawais/create-ai-agent/commit/61c0262b057f00d2afda9a0e882757ff694bb662)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`f761fd3`](https://github.com/ahmadawais/create-ai-agent/commit/f761fd3bf48912ac2c7c38a8cc1f273302edce76)
 
 <br>
 
